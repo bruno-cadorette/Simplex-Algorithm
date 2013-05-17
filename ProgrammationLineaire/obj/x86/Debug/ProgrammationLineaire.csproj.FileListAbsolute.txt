@@ -1,0 +1,10 @@
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\obj\x86\Debug\ProgrammationLineaire.Lineaire.resources
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\obj\x86\Debug\ProgrammationLineaire.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\bin\Debug\ProgrammationLineaire.exe
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\bin\Debug\ProgrammationLineaire.pdb
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\obj\x86\Debug\ProgrammationLineaire.exe
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\obj\x86\Debug\ProgrammationLineaire.pdb
+c:\users\bruno\documents\visual studio 2010\Projects\ProgrammationLineaire\ProgrammationLineaire\obj\x86\Debug\ProgrammationLineaire.Base.resources
